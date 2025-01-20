@@ -51,17 +51,17 @@
 <h3 align="center">🚀 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushagrawal07&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramsy007&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <h3 align="center">🏆 GitHub Trophies:</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushagrawal07&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramsy007&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <h3 align="center">📊 Top Languages:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushagrawal07&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramsy007&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
