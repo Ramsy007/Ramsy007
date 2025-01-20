@@ -1,7 +1,7 @@
 ![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 
 <h1 align="center">Hi there! 👋 I'm Girdhar Mishra</h1>
-<h3 align="center">Passionate coder and web developer with a knack for problem-solving and a strong foundation in Data Structures and Algorithms. Transforming ideas into seamless digital experiences. 💻 Expert in DSA and competitive programming. Constantly learning and evolving in the ever-changing tech landscape.</h3>
+<h3 align="center">Passionate coder and web developer with a knack for problem-solving and a strong foundation in Data Structures and Algorithms. Transforming ideas into seamless digital experiences with Strong hold  in DSA and competitive programming. Constantly learning and evolving in the ever-changing tech landscape.</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding" width="400" style="border-radius: 8px;">
