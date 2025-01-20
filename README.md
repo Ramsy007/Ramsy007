@@ -1,6 +1,6 @@
 ![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 
-<h1 align="center">Hi there! 👋 I'm Ayush Agrawal</h1>
+<h1 align="center">Hi there! 👋 I'm Girdhar Mishra</h1>
 <h3 align="center">Passionate coder and web developer with a knack for problem-solving and a strong foundation in Data Structures and Algorithms. Transforming ideas into seamless digital experiences. 💻 Expert in DSA and competitive programming. Constantly learning and evolving in the ever-changing tech landscape.</h3>
 
 <p align="center">
@@ -8,24 +8,24 @@
 </p>
 
 <p align="center">
-  🔭 I’m currently working on <strong>TechTribe</strong><br>
+  🔭 I’m currently working on <strong>Real-estate</strong><br>
   🌱 I’m currently learning <strong>Advanced React </strong><br>
   🤝 I’m looking to collaborate on <strong>open source projects</strong><br>
-  📫 How to reach me: <strong>ayushagrawal1225@gmail.com</strong>
+  📫 How to reach me: <strong>girdharmishra10102003@gmail.com</strong>
 </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/ayushagrawal" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/girdhar-mishra/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/ayush_61" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.codechef.com/users/h1749037" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/ayush.ag" target="_blank" rel="noopener noreferrer">
+  <a href="https://codeforces.com/profile/girdhar122" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/ayush_61" target="_blank" rel="noopener noreferrer">
+  <a href="https://leetcode.com/u/Ramsy__007/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
